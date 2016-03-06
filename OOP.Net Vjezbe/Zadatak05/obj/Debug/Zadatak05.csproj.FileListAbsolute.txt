@@ -7,3 +7,6 @@ C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.Pr
 C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.csproj.GenerateResource.Cache
 C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.exe
 C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.pdb
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\Zadatak05\bin\Debug\Zadatak05.exe.config
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.exe
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.pdb

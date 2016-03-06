@@ -10,3 +10,6 @@ C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak 08.
 C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\bin\Debug\Utili.dll
 C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\bin\Debug\Utili.pdb
 C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak 08.csprojResolveAssemblyReference.cache
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\Zadatak 08\bin\Debug\Zadatak 08.exe.config
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak 08.exe
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak 08.pdb

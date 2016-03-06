@@ -1,1 +1,2 @@
 C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 06\bin\Debug\Zadatak 06.exe.config
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\Zadatak 06\bin\Debug\Zadatak 06.exe.config
