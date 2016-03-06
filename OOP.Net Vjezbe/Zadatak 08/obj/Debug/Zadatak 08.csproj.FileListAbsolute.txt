@@ -1,0 +1,12 @@
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\bin\Debug\Zadatak 08.exe.config
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\bin\Debug\Zadatak 08.exe
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\bin\Debug\Zadatak 08.pdb
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak_08.CustomForm.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak_08.Properties.Resources.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak_08.Form1.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak 08.csproj.GenerateResource.Cache
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak 08.exe
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak 08.pdb
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\bin\Debug\Utili.dll
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\bin\Debug\Utili.pdb
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 08\obj\Debug\Zadatak 08.csprojResolveAssemblyReference.cache

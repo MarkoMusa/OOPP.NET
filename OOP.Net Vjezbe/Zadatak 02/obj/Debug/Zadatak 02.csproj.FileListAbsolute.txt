@@ -1,0 +1,11 @@
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\bin\Debug\Zadatak 02.exe.config
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\bin\Debug\Zadatak 02.exe
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\bin\Debug\Zadatak 02.pdb
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\obj\Debug\Zadatak_02.Z01_Main.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\obj\Debug\Zadatak_02.Properties.Resources.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\obj\Debug\Zadatak 02.csproj.GenerateResource.Cache
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\obj\Debug\Zadatak 02.exe
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\obj\Debug\Zadatak 02.pdb
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\obj\Debug\Zadatak_02.Form_100x100_Red.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\obj\Debug\Zadatak_02.Form_150x150_Static.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak 02\obj\Debug\Zadatak_02.Form_200x200.resources

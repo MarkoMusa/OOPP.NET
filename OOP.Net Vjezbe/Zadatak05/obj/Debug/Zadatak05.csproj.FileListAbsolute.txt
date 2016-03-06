@@ -1,0 +1,9 @@
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\bin\Debug\Zadatak05.exe.config
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\bin\Debug\Zadatak05.exe
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\bin\Debug\Zadatak05.pdb
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.csprojResolveAssemblyReference.cache
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.frmZ05.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.Properties.Resources.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.csproj.GenerateResource.Cache
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.exe
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\Zadatak05\obj\Debug\Zadatak05.pdb

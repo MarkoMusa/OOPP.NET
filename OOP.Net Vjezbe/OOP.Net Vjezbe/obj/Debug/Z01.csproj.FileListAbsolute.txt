@@ -1,0 +1,12 @@
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\bin\Debug\OOP.Net Vjezbe.exe.config
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\bin\Debug\OOP.Net Vjezbe.exe
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\bin\Debug\OOP.Net Vjezbe.pdb
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\obj\Debug\Z01.csprojResolveAssemblyReference.cache
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\obj\Debug\OOP.Net_Vjezbe.Properties.Resources.resources
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\obj\Debug\Z01.csproj.GenerateResource.Cache
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\obj\Debug\OOP.Net Vjezbe.exe
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\obj\Debug\OOP.Net Vjezbe.pdb
+C:\Users\programer\Desktop\mmusa\OOP.Net Vjezbe\OOP.Net Vjezbe\obj\Debug\OOP.Net_Vjezbe.Z01.resources
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\OOP.Net Vjezbe\bin\Debug\OOP.Net Vjezbe.exe.config
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\OOP.Net Vjezbe\obj\Debug\OOP.Net Vjezbe.exe
+E:\Mega\School\Semestar 04\08028 Objektno orijentirano programiranje - praktikum u .NET okolini\OOP.Net Vjezbe\OOP.Net Vjezbe\obj\Debug\OOP.Net Vjezbe.pdb
